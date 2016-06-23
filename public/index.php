@@ -1,3 +1,9 @@
 <?php
+
+
 require_once"../vendor/autoload.php";
-echo "Hello Framework";
+
+
+$route = new \app\Route;
+
+echo $route->getUrl();
