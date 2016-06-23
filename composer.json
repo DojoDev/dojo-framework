@@ -1,0 +1,22 @@
+{
+	"nome":"son/mvc",
+	"require":{
+		"php":">=5.6"
+	},
+	"authors":[
+		{
+			"name":"Rafael Nunes",
+			"email":"dojodevbr@gmail.com"
+
+		}
+],
+	"autoload":
+	{
+		"psr-4":
+		{
+			"SON\\":"vendor/son/",
+			"APP\\":"app/"
+
+		}
+	}
+}
