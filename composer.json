@@ -14,8 +14,8 @@
 	{
 		"psr-4":
 		{
-			"SON\\":"vendor/son/",
-			"APP\\":"app/"
+			"SON\\":"vendor/SON/",
+			"APP\\":"App/"
 
 		}
 	}
